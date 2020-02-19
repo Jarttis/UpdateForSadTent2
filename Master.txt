@@ -3,3 +3,10 @@
 /data/Map016.json https://raw.githubusercontent.com/Jarttis/UpdateForSadTent2/master/Map016.json
 /data/Map017.json https://raw.githubusercontent.com/Jarttis/UpdateForSadTent2/master/Map017.json
 <End of Version>
+
+<Version: 1.02>
+/data/Map001.json https://raw.githubusercontent.com/Jarttis/UpdateForSadTent2/master/Map001.json
+/data/Map013.json https://raw.githubusercontent.com/Jarttis/UpdateForSadTent2/master/Map013.json
+/data/Map017.json https://raw.githubusercontent.com/Jarttis/UpdateForSadTent2/master/Map017.json
+/data/Enemies.json https://raw.githubusercontent.com/Jarttis/UpdateForSadTent2/master/Enemies.json
+<End of Version>
