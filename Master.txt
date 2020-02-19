@@ -1,1 +1,5 @@
 
+<Version: 1.01>
+/data/Map016.json https://raw.githubusercontent.com/Jarttis/UpdateForSadTent2/master/Map016.json
+/data/Map017.json https://raw.githubusercontent.com/Jarttis/UpdateForSadTent2/master/Map017.json
+<End of Version>
